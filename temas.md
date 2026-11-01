@@ -4,7 +4,7 @@ La tarea programada coge el primer tema sin marcar, lo marca con [x] y la fecha,
 Puedes añadir, quitar o reordenar temas cuando quieras: solo edita esta lista.
 
 - [x] 2026-11-02 · Instrumentos de evaluación que el tribunal quiere ver
-- [ ] DUA: los 3 principios explicados con ejemplos de aula
+- [x] 2026-11-04 · DUA: los 3 principios explicados con ejemplos de aula
 - [ ] Estructura de una Situación de Aprendizaje en 5 pasos
 - [ ] 5 errores que restan puntos en la exposición oral
 - [ ] Criterios de evaluación, saberes básicos y competencias: cómo se conectan

@@ -1,0 +1,50 @@
+{
+  "slug": "2026-11-04-dua",
+  "portada": [
+    "DUA",
+    "sin teoría vacía"
+  ],
+  "recuadro_comun": "DUA en tu programación",
+  "escenas": [
+    {
+      "foto": "classroom children learning",
+      "recuadro": "¿SABES APLICAR EL DUA O SOLO LO CITAS?",
+      "titulo": "Los 3 principios",
+      "texto": "con ejemplos de aula",
+      "voz": "¿Citas el DUA pero no sabes aplicarlo? Estos son sus tres principios.",
+      "foto_id": 10162440
+    },
+    {
+      "foto": "student motivation school",
+      "num": "1",
+      "titulo": "Implicación",
+      "texto": "Elige retos, da opciones, conecta con sus intereses",
+      "voz": "Uno, implicación: ofrece opciones y retos que les motiven.",
+      "foto_id": 8696601
+    },
+    {
+      "foto": "colorful books pictures",
+      "num": "2",
+      "titulo": "Representación",
+      "texto": "Texto, imagen, vídeo, manipulativos",
+      "voz": "Dos, representación: presenta la información de varias formas.",
+      "foto_id": 3587767
+    },
+    {
+      "foto": "children presentation poster",
+      "num": "3",
+      "titulo": "Acción y expresión",
+      "texto": "Que demuestren lo aprendido de distintas maneras",
+      "voz": "Tres, acción y expresión: deja que lo demuestren de distintas maneras.",
+      "foto_id": 3599189
+    },
+    {
+      "foto": "teacher notebook planning",
+      "recuadro": "LA CLAVE PARA EL TRIBUNAL",
+      "titulo": "Concreta",
+      "texto": "Un ejemplo real por principio en cada SdA",
+      "voz": "El truco: pon un ejemplo concreto de cada principio en tu situación de aprendizaje. ¡Sígueme!",
+      "foto_id": 2559707
+    }
+  ]
+}

@@ -8,6 +8,7 @@ Publicaciones en TikTok + Instagram (Reel): lunes, miércoles y viernes a las 20
 La tarea se ejecuta la víspera y deja la publicación como BORRADOR en Metricool: el usuario la revisa y la confirma.
 
 ## Pasos de cada ejecución
+0. **Antes de nada, comprueba Metricool** (marca 7793390, getScheduledPosts) para la fecha de publicación que toca: si ya hay un post (borrador o programado) ese día, NO crees otro; limítate a avisar al usuario para que lo revise y termina.
 1. `git pull`. Mira `temas.md`: coge el primer tema sin marcar. Calcula la fecha de publicación (el siguiente lunes/miércoles/viernes/domingo) y el slug `AAAA-MM-DD-tema-corto`.
 2. Escribe `guiones/<slug>.json` (formato en `tools/make_video.py`; ejemplo: `guiones/2026-11-04-dua.json`):
    - 5-7 escenas; la primera con `recuadro` = gancho en MAYÚSCULAS con pregunta; la última con `recuadro` = "LA CLAVE PARA EL TRIBUNAL" y la voz terminando en "¡Sígueme!".

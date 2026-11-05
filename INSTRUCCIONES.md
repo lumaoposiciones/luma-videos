@@ -5,7 +5,8 @@ Público: opositores a Maestro de Primaria (C. Valenciana). Tono: cercano, direc
 
 ## Calendario
 Publicaciones en TikTok + Instagram (Reel): lunes, miércoles y viernes a las 20:00 y domingos a las 11:00 (Europe/Madrid).
-La tarea se ejecuta la víspera y deja la publicación como BORRADOR en Metricool: el usuario la revisa y la confirma.
+La tarea se ejecuta la víspera y deja la publicación de Instagram como BORRADOR en Metricool: el usuario la revisa y la confirma.
+TikTok (desde el 05/11/2026): NO se crea nada en Metricool para TikTok. El PC del usuario sube solo el vídeo de `videos/` a la bandeja de TikTok como borrador (tarea de Windows "LuMa TikTok borradores", entre las 17:00 y las 23:00 de la víspera) y el usuario lo publica desde la app con el texto de `guiones/<slug>.txt`. Por eso el nombre del vídeo DEBE empezar por la fecha de publicación (`AAAA-MM-DD-...mp4`).
 
 ## Pasos de cada ejecución
 0. **Antes de nada, comprueba Metricool** (marca 7793390, getScheduledPosts) para la fecha de publicación que toca: si ya hay un post (borrador o programado) ese día, NO crees otro; limítate a avisar al usuario para que lo revise y termina.
@@ -21,4 +22,4 @@ La tarea se ejecuta la víspera y deja la publicación como BORRADOR en Metricoo
    `#oposicionesvalencia #oposicionesmaestros #<tema> #lumaoposiciones #tribunaldeoposiciones #opofamily #oposiciones2026 #programaciondidactica`
 6. Marca el tema en `temas.md` como `- [x] AAAA-MM-DD · tema`. Si quedan menos de 4 temas, añade 8 nuevos al final (variados: programación, SdA, evaluación, DUA/inclusión, exposición oral, supuesto práctico, organización del estudio).
 7. `git add -A && git commit && git push`. Comprueba que `https://raw.githubusercontent.com/lumaoposiciones/luma-videos/main/videos/<slug>.mp4` responde 200.
-8. Metricool (marca 7793390): createScheduledPost con `draft: true`, providers tiktok + instagram, media = enlace raw del vídeo, `videoThumbnailUrl` = enlace raw de `portadas/<slug>.jpg`, text = descripción, `tiktokData.title` = título corto (obligatorio), `tiktokData.isAigc: true`, `instagramData: {type: "REEL", showReelOnFeed: true, isAiGenerated: true}`.
+8. Metricool (marca 7793390): createScheduledPost con `draft: true`, providers **solo instagram** (TikTok NO va por Metricool), media = enlace raw del vídeo, `videoThumbnailUrl` = enlace raw de `portadas/<slug>.jpg`, text = descripción, `instagramData: {type: "REEL", showReelOnFeed: true, isAiGenerated: true}`.

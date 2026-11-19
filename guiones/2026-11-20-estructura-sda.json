@@ -1,0 +1,66 @@
+{
+  "slug": "2026-11-20-estructura-sda",
+  "portada": [
+    "Tu SdA",
+    "en 5 pasos"
+  ],
+  "recuadro_comun": "Situación de Aprendizaje",
+  "escenas": [
+    {
+      "foto": "classroom teacher students",
+      "recuadro": "¿TU SdA ES SOLO UNA LISTA DE ACTIVIDADES?",
+      "titulo": "5 pasos",
+      "texto": "para que tenga sentido",
+      "voz": "¿Tu situación de aprendizaje parece una lista de actividades? Hazla en cinco pasos.",
+      "foto_id": 1177707
+    },
+    {
+      "foto": "pupils classroom",
+      "num": "1",
+      "titulo": "Un reto real",
+      "texto": "Cercano y con sentido para el alumnado",
+      "voz": "Uno: parte de un reto real y cercano al alumnado.",
+      "foto_id": 6907222
+    },
+    {
+      "foto": "student studying desk",
+      "num": "2",
+      "titulo": "Conecta el currículo",
+      "texto": "Competencias, criterios y saberes",
+      "voz": "Dos: conecta competencias, criterios y saberes.",
+      "foto_id": 476977
+    },
+    {
+      "foto": "school supplies desk",
+      "num": "3",
+      "titulo": "Secuencia",
+      "texto": "Inicio, desarrollo y cierre",
+      "voz": "Tres: secuencia las actividades: inicio, desarrollo y cierre.",
+      "foto_id": 3596682
+    },
+    {
+      "foto": "children computer classroom",
+      "num": "4",
+      "titulo": "Producto final",
+      "texto": "Algo que se comparte con otros",
+      "voz": "Cuatro: un producto final que se comparta.",
+      "foto_id": 1311506
+    },
+    {
+      "foto": "ruler paper pencil",
+      "num": "5",
+      "titulo": "Evaluación",
+      "texto": "Instrumentos ligados a los criterios",
+      "voz": "Cinco: evalúa con instrumentos ligados a los criterios.",
+      "foto_id": 5370027
+    },
+    {
+      "foto": "reading book child",
+      "recuadro": "LA CLAVE PARA EL TRIBUNAL",
+      "titulo": "El reto lo une todo",
+      "texto": "Cada paso tiene que responder a él",
+      "voz": "La clave: que el reto dé sentido a todo. ¡Sígueme!",
+      "foto_id": 1090736
+    }
+  ]
+}

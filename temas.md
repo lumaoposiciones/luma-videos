@@ -13,7 +13,7 @@ Puedes añadir, quitar o reordenar temas cuando quieras: solo edita esta lista.
 - [x] 2026-11-15 · Cómo controlar los nervios el día del oral
 - [x] 2026-11-16 · Metodologías activas: ABP, cooperativo y gamificación
 - [x] 2026-11-18 · El guion de apoyo para el oral: qué incluir
-- [ ] Estructura de una Situación de Aprendizaje en 5 pasos
+- [x] 2026-11-20 · Estructura de una Situación de Aprendizaje en 5 pasos
 - [ ] 5 errores que restan puntos en la exposición oral
 - [ ] Criterios de evaluación, saberes básicos y competencias: cómo se conectan
 - [ ] Las 8 competencias clave en una frase cada una

@@ -14,18 +14,18 @@ Puedes añadir, quitar o reordenar temas cuando quieras: solo edita esta lista.
 - [x] 2026-11-16 · Metodologías activas: ABP, cooperativo y gamificación
 - [x] 2026-11-18 · El guion de apoyo para el oral: qué incluir
 - [x] 2026-11-20 · Estructura de una Situación de Aprendizaje en 5 pasos
-- [ ] 5 errores que restan puntos en la exposición oral
+- [x] 2026-11-20 · Evaluación formativa vs. sumativa
+- [x] 2026-11-22 · 5 errores que restan puntos en la exposición oral
+- [x] 2026-11-23 · Cómo hacer una rúbrica que el tribunal valore
+- [x] 2026-11-25 · Citar autores y evidencia científica sin sonar a memorizado
 - [ ] Criterios de evaluación, saberes básicos y competencias: cómo se conectan
 - [ ] Las 8 competencias clave en una frase cada una
 - [ ] Inclusión real: ejemplos concretos, no teoría
 - [ ] Qué mira el tribunal en tu programación didáctica
-- [ ] Evaluación formativa vs. sumativa
 - [ ] El producto final de una SdA: cómo elegirlo bien
-- [ ] Cómo hacer una rúbrica que el tribunal valore
 - [ ] Autoevaluación y coevaluación en Primaria
 - [ ] Acción tutorial y relación con las familias
 - [ ] Competencia digital en el aula de Primaria
 - [ ] Plurilingüismo en la Comunitat Valenciana: cómo reflejarlo
 - [ ] El perfil de salida del alumnado
-- [ ] Citar autores y evidencia científica sin sonar a memorizado
 - [ ] Atención a la diversidad: medidas de respuesta en tu programación

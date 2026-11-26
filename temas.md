@@ -17,13 +17,15 @@ Puedes añadir, quitar o reordenar temas cuando quieras: solo edita esta lista.
 - [x] 2026-11-22 · 5 errores que restan puntos en la exposición oral
 - [x] 2026-11-23 · Cómo hacer una rúbrica que el tribunal valore
 - [x] 2026-11-25 · Citar autores y evidencia científica sin sonar a memorizado
-- [ ] Evaluación formativa vs. sumativa
+- [x] 2026-11-29 · Voz y ritmo: cómo sonar seguro en el oral
+- [x] 2026-12-02 · Cómo cerrar la exposición oral
+- [x] 2026-11-27 · Evaluación formativa vs. sumativa
 - [ ] Criterios de evaluación, saberes básicos y competencias: cómo se conectan
 - [ ] Las 8 competencias clave en una frase cada una
 - [ ] Inclusión real: ejemplos concretos, no teoría
 - [ ] Qué mira el tribunal en tu programación didáctica
 - [ ] El producto final de una SdA: cómo elegirlo bien
-- [ ] Autoevaluación y coevaluación en Primaria
+- [x] 2026-11-30 · Autoevaluación y coevaluación en Primaria
 - [ ] Acción tutorial y relación con las familias
 - [ ] Competencia digital en el aula de Primaria
 - [ ] Plurilingüismo en la Comunitat Valenciana: cómo reflejarlo
